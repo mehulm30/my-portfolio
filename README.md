@@ -45,32 +45,6 @@ Built with React best practices and minimal dependencies.
 
 ---
 
-## 📂 **Folder Structure**
-src/
-├─ assets/
-│ └─ logo.png
-│
-├─ components/
-│ ├─ Loader.jsx
-│ ├─ Navbar.jsx
-│ ├─ Hero.jsx
-│ ├─ About.jsx
-│ ├─ Skills.jsx
-│ ├─ Experience.jsx
-│ ├─ Projects.jsx
-│ ├─ Contact.jsx
-│ ├─ Footer.jsx
-│ └─ BackToTop.jsx
-│
-├─ App.jsx
-├─ index.js
-└─ style.css
-
----
-
-
----
-
 ## 🛠️ **Installation & Setup**
 
 ### 1️⃣ Clone the repository  
