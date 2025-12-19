@@ -17,7 +17,7 @@ const Contact = () => (
             <div className="d-flex justify-content-center gap-4 mt-3">
               <a href="https://www.linkedin.com/in/mehulm30/" className="text-reset fs-3 transition-hover"><i className="bi bi-linkedin"></i></a>
               <a href="https://github.com/mehulm30" className="text-reset fs-3 transition-hover"><i className="bi bi-github"></i></a>
-              <a href="tel:+919137363140" className="text-reset fs-3 transition-hover"><i className="bi bi-telephone"></i></a>
+              <a href="tel:+919152551387" className="text-reset fs-3 transition-hover"><i className="bi bi-telephone"></i></a>
             </div>
           </div>
         </div>
