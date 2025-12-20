@@ -1028,3 +1028,42 @@ footer {
   color: #38bdf8;
   transition: all 0.25s ease;
 }
+/* ====    WHATSAPP AND MAIL BUTTON ==== */
+#contact .contact-pill-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+
+  padding: 14px 36px;
+  border-radius: 18px; /* soft rounded like screenshot */
+
+  background-color: #ffffff;
+  color: #0b1220;
+
+  font-size: 20px;
+  font-weight: 800;
+  text-decoration: none;
+
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.25);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+/* Icon style */
+#contact .contact-pill-btn i {
+  font-size: 20px;
+}
+
+/* Hover – subtle lift, NO color change */
+#contact .contact-pill-btn:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.35);
+  color: #0b1220;
+}
+
+/* Mobile full-width */
+@media (max-width: 576px) {
+  #contact .contact-pill-btn {
+    width: 100%;
+    justify-content: center;
+  }
+}
