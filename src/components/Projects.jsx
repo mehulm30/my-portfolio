@@ -6,6 +6,7 @@ const Projects = () => (
       <div className="text-center mb-5" data-aos="fade-up">
         <span className="section-subtitle">Portfolio</span>
         <h2 className="section-heading">Featured Projects</h2>
+        <h7>( Click the GitHub icon to view the project )</h7>
       </div>
 
       <div className="row g-4">
