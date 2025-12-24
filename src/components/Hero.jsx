@@ -16,7 +16,7 @@ const Hero = () => {
             </p>
             <div className="d-flex flex-wrap gap-3 justify-content-center justify-content-lg-start">
               <a href="#projects" className="btn btn-glow">View Projects</a>
-              <a href="https://drive.google.com/file/d/1Qz7d6cMCXJDa6VsS7UTRXeWBDdSU9i7n/view?usp=sharing" target="_blank" rel="noreferrer" className="btn btn-outline-glow" download>
+              <a href="https://drive.google.com/file/d/1qs7PuAZTXQcdwt-WZUgnCGlhZRWYGsRU/view?usp=sharing" target="_blank" rel="noreferrer" className="btn btn-outline-glow" download>
                 Download CV <i className="bi bi-download ms-2"></i>
               </a>
             </div>
