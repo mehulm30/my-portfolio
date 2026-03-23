@@ -1073,3 +1073,34 @@ footer {
     justify-content: center;
   }
 }
+
+/* ==== DOWNLOAD CV BUTTON BUTTON ==== */
+.download-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+
+  padding: 12px 20px;
+  border-radius: 14px;
+
+  font-size: 15px;
+  font-weight: 500;
+  text-decoration: none;
+
+  color: var(--text-main); /* auto changes with theme */
+
+  border: 1.5px solid var(--border-light);
+  background: transparent;
+
+  transition: all 0.3s ease;
+}
+/* Hover effect (same for both themes) */
+.download-btn:hover {
+  color: #38bdf8;
+  border-color: #38bdf8;
+  box-shadow: 0 0 15px rgba(56, 189, 248, 0.4);
+  transform: translateY(-2px);
+}
+
+
+
