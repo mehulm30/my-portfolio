@@ -45,11 +45,36 @@ Built with React best practices and minimal dependencies.
 
 ---
 
-## 🛠️ **Installation & Setup**
+## ⚙️ Setup & Installation
 
-### 1️⃣ Clone the repository  
+### 1. Clone the repository
+
 ```bash
-git clone https://github.com/your-username/your-portfolio-repo.git
-cd your-portfolio-repo
+git clone https://github.com/mehulm30/my-portfolio.git
+```
 
+### 2. Navigate to project directory
+
+```bash
+cd my-portfolio
+```
+
+### 3. Install dependencies
+
+```bash
 npm install
+```
+
+### 4. Run locally
+
+```bash
+npm start
+```
+
+---
+
+## 📦 Build for Production
+
+```bash
+npm run build
+```
